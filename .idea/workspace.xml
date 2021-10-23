@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3b0d1c-7ea3-4349-acab-bf766d3676bb" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KoSBERT/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/KoSBERT/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KoSBERT/lightning_modules_dataloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/KoSBERT/lightning_modules_dataloader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KoSBERT/lightning_modules_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/KoSBERT/lightning_modules_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KoSBERT/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/KoSBERT/model.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +42,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -57,7 +66,7 @@
       <workItem from="1634642837736" duration="9931000" />
       <workItem from="1634829634411" duration="3245000" />
       <workItem from="1634899822236" duration="9000" />
-      <workItem from="1634904899560" duration="8277000" />
+      <workItem from="1634904899560" duration="15428000" />
     </task>
     <servers />
   </component>
