@@ -1,3 +1,4 @@
+genre	filename	year	id	score	sentence1	sentence2
 main-captions	MSRvid	2012test	0001	5.000	비행기가 이륙하고 있다.	비행기가 이륙하고 있다.
 main-captions	MSRvid	2012test	0004	3.800	한 남자가 큰 플루트를 연주하고 있다.	남자가 플루트를 연주하고 있다.
 main-captions	MSRvid	2012test	0005	3.800	한 남자가 피자에 치즈를 뿌려놓고 있다.	한 남자가 구운 피자에 치즈 조각을 뿌려놓고 있다.
